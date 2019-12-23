@@ -1,0 +1,16 @@
+{
+  "name": "simple_routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makito mori",
+  "license": "ISC",
+  "dependencies": {
+    "cw-user-agent": "^0.1.0",
+    "http-status-codes": "^1.4.0",
+    "ua-parser-js": "^0.7.20"
+  }
+}

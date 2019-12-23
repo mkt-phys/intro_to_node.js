@@ -1,0 +1,15 @@
+{
+  "name": "confetti_cuisine",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "http-status-codes": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makito mori",
+  "license": "ISC",
+  "description": ""
+}
